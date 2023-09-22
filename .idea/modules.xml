@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ansi_learn/ansi_learn.iml" filepath="$PROJECT_DIR$/ansi_learn/ansi_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base64/base64_learn.iml" filepath="$PROJECT_DIR$/base64/base64_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clap_learn/clap_learn.iml" filepath="$PROJECT_DIR$/clap_learn/clap_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cook_learn.iml" filepath="$PROJECT_DIR$/cook_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/date_time/date_time.iml" filepath="$PROJECT_DIR$/date_time/date_time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fs_learn/fs_learn.iml" filepath="$PROJECT_DIR$/fs_learn/fs_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rand_learn/rand_learn.iml" filepath="$PROJECT_DIR$/rand_learn/rand_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vec_sort/vec_sort.iml" filepath="$PROJECT_DIR$/vec_sort/vec_sort.iml" />
+    </modules>
+  </component>
+</project>

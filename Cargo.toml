@@ -1,0 +1,5 @@
+[workspace]
+
+members = [
+ "rand_learn","vec_sort","clap_learn","ansi_learn","date_time","base64_learn","fs_learn"
+]
