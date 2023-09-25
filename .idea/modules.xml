@@ -3,13 +3,19 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ansi_learn/ansi_learn.iml" filepath="$PROJECT_DIR$/ansi_learn/ansi_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop/aop.iml" filepath="$PROJECT_DIR$/aop/aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/base64/base64_learn.iml" filepath="$PROJECT_DIR$/base64/base64_learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/clap_learn/clap_learn.iml" filepath="$PROJECT_DIR$/clap_learn/clap_learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/cook_learn.iml" filepath="$PROJECT_DIR$/cook_learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/date_time/date_time.iml" filepath="$PROJECT_DIR$/date_time/date_time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug_display/debug_display.iml" filepath="$PROJECT_DIR$/debug_display/debug_display.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum_value/enum_value.iml" filepath="$PROJECT_DIR$/enum_value/enum_value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/from_into/from_into.iml" filepath="$PROJECT_DIR$/from_into/from_into.iml" />
       <module fileurl="file://$PROJECT_DIR$/fs_learn/fs_learn.iml" filepath="$PROJECT_DIR$/fs_learn/fs_learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/rand_learn/rand_learn.iml" filepath="$PROJECT_DIR$/rand_learn/rand_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tokio_learn/tokio_learn.iml" filepath="$PROJECT_DIR$/tokio_learn/tokio_learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/vec_sort/vec_sort.iml" filepath="$PROJECT_DIR$/vec_sort/vec_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zip_unzip/zip_unzip.iml" filepath="$PROJECT_DIR$/zip_unzip/zip_unzip.iml" />
     </modules>
   </component>
 </project>

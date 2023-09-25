@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
- "rand_learn","vec_sort","clap_learn","ansi_learn","date_time","base64_learn","fs_learn"
+ "rand_learn","vec_sort","clap_learn","ansi_learn","date_time","base64_learn","fs_learn","from_into","tokio_learn",
+ "debug_display","enum_value","aop","zip_unzip"
 ]
